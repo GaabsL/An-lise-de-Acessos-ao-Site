@@ -15,9 +15,9 @@ export function HardsellContext() {
           value="Ofertas: 247.399 acessos"
         />
         <HardsellItem 
-          date="06/05/2026"
-          desc="Pico de acessos em Lojas — possível ativação de campanha geolocalizada"
-          value="Lojas: 18.546 acessos"
+          date="04/05/2026"
+          desc="A polêmica dos Ovos, acabou gerando um volume atípico de críticas!"
+          value="Comentários em massa"
         />
         <HardsellItem 
           date="30/04 – 01/05/2026"
