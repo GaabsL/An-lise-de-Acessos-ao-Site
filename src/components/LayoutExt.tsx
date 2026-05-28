@@ -77,7 +77,7 @@ export function Insights() {
           Impacto das Ações Casa do Patrão no Tráfego Digital
         </div>
         <div className="text-[13.5px] leading-[1.7] text-[#444]">
-          O crescimento de <strong className="text-brand-blue">+5,3% em Lojas</strong> vs. 2025 sugere que as ações do Casa do Patrão podem estar gerando maior interesse dos consumidores nas páginas de localização de lojas — um comportamento típico de quem busca informação antes de ir ao PDV. O pico de <strong className="text-brand-blue">05/05 em Ofertas (247k)</strong> acompanhado do pico em Lojas em <strong className="text-brand-blue">06/05 (18,5k)</strong> indica uma jornada digital consistente: usuários que veem a oferta um dia buscam a loja mais próxima no dia seguinte. Para atribuir o crescimento diretamente às ações, recomenda-se cruzar as datas de ativação das campanhas Casa do Patrão com os dias de pico mapeados.
+          O crescimento de <strong className="text-brand-blue">+5,3% em Lojas</strong> vs. 2025 sugere que as ações do Casa do Patrão podem estar gerando maior interesse dos consumidores nas páginas de localização de lojas — um comportamento típico de quem busca informação antes de ir ao PDV. O pico de <strong className="text-brand-blue">05/05 em Ofertas (247k)</strong> acompanhado do pico em Lojas em <strong className="text-brand-blue">06/05 (18,5k)</strong> indica uma jornada digital consistente: usuários que veem a oferta um dia buscam a loja mais próxima no dia seguinte.
         </div>
       </div>
     </div>
